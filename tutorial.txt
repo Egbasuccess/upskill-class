@@ -1,0 +1,7 @@
+The meta charset ="utf-8" line plays an important role in making sure that the web page is displayed correctly.
+
+<meta> : This is an HTML tag that provides metadata about the web page. it doesn't directely affect what you see on the page, but gives the browser instructions on how to handle the content.
+
+charset : This is an attribute of the <meta> tag that specifically tells the browser about the character encoding used for the text in the web page.
+
+utf-8 : This refers to a specific character encoding standard called UTF-8 encoding standardcalled UTF-8 (Unicode Transformstion format - 8 bit). UTF-8 is a way of representing all sorts of characters, including letters, symbols, and punctiontion,from preetty much any language you can imagine.
